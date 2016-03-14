@@ -1,2 +1,2 @@
-# iwpwjs
-Interactive web pages with JavaScript
+# IWPWJS
+Interactive web pages with JavaScript: a basic todo list.
